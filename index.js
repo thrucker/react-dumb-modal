@@ -1,7 +1,7 @@
 var React = require('react')
-const createReactClass = require('create-react-class')
-const PropTypes = require('prop-types')
-const ReactDOM = require('react-dom-factories')
+var createReactClass = require('create-react-class')
+var PropTypes = require('prop-types')
+var ReactDOM = require('react-dom-factories')
 
 var styles = {
   modal: {
